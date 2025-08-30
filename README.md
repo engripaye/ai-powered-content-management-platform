@@ -2,6 +2,8 @@
 
 # 📑 AI-Powered Content Management Platform
 
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/c75065b6-f4ad-47af-a1c5-765dc013305f" />
+
 A scalable **content management platform** that leverages **AI**, combining a **Python service layer**, a **Java backend**, and a **PHP frontend**. The system enables seamless content publishing, automated workflows, and team collaboration, with full version control using GitHub.
 
 ---
